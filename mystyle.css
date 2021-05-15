@@ -16,17 +16,22 @@ h2 {
   text-align: center;
 }
 
-img.center {
+.center {
   height:"300";
   width:"300";
 }
 
-img.header {
+.header {
   display: block;
   margin-left: auto;
   margin-right: auto;
   height:"300";
   width:"300";
+}
+
+.art {
+  height: auto;
+  width: auto;
 }
 
 p1 {
