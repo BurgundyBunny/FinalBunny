@@ -16,6 +16,17 @@ h2 {
   text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
+p1 {
+  color: black;
+  font-family:"Satisfy";
+  font-size: 50px;
+  text-align: center;
+}
+
 nav ul li {
   text-align: left;
 }
