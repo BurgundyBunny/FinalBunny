@@ -14,24 +14,11 @@ h2 {
   font-family:"Lobster";
   font-size: 55px;
   text-align: center;
-}
-
-.center {
-  height: 300px;
-  width: 300px;
-}
 
 .header {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  height: 300px;
-  width: 300px;
-}
-
-.art {
-  height: auto;
-  width: auto;
 }
 
 p1 {
